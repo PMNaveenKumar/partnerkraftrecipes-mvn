@@ -1,0 +1,160 @@
+<section><div>
+	<div class="product-title">
+		<div>
+			<h1>${Name!"No Name"}</h1>
+			<h3>${description!""}</h3>
+			<p>${ID!""}</p>
+			<p><button onclick="window.location.reload()">Reload</button></p>
+		</div>
+	</div></div></section>
+	<table><tr><td style="width: 300px;">
+<section><div>
+	<div class="product-details">
+		<div class="nutrition-container">
+			<table class="nutrition" border="0" cellpadding="0" cellspacing="0" title="Nutrition Facts for ${Name!"No Name"}">
+				<tbody>
+					<tr class="no-line">
+						<td colspan="2">
+							<h2>Nutrition Facts</h2>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							Serving size ${nutrition_servingsize!"1"}<br>
+							Servings per container ${nutrition_servings!"1"}
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td colspan="2"><strong>Amount Per Serving</strong></td>
+					</tr>
+					<tr>
+						<td><h3>Calories</h3></td>
+						<td style="vertical-align: bottom;"><h3>${nutrition_calories!0}</h3></td>
+					</tr>
+					<#if nutrition_caloriesfromfat??>
+					<tr indent>
+						<th>Calories&nbsp;From&nbsp;Fat</th>
+						<td>${nutrition_caloriesfromfat}</td>
+					</tr>
+					</#if>
+				</tbody>
+				<tbody>
+					<tr>
+						<th colspan="2" style="text-align:right" class="small">% Daily Value*</th>
+					</tr>
+					<tr>
+						<td><strong>Total&nbsp;Fat</strong>&nbsp;&nbsp;${nutrition_fat_amt!"0g"}</td>
+						<td><strong>${nutrition_fat_dv!0}%</strong></td>
+					</tr>
+					<tr indent>
+						<td>Saturated&nbsp;Fat&nbsp;&nbsp;${nutrition_saturatedfat_amt!"0g"}</td>
+						<td><strong>${nutrition_saturatedfat_dv!0}%</strong></td>
+					</tr>
+					<tr indent>
+						<td><i>Trans</i>&nbsp;Fat&nbsp;&nbsp;${nutrition_transfat_amt!"0g"}</td>
+						<td>&nbsp;</td>
+					</tr>
+					<#if nutrition_polyunsaturatedfat_amt??>
+					<tr indent>
+						<td>Polyunsat&nbsp;Fat&nbsp;&nbsp;${nutrition_polyunsaturatedfat_amt}</td>
+						<td>&nbsp;</td>
+					</tr>
+					</#if>
+					<#if nutrition_monounsaturatedfat_amt??>
+					<tr indent>
+						<td>Monounsat&nbsp;Fat&nbsp;&nbsp;${nutrition_monounsaturatedfat_amt}</td>
+						<td>&nbsp;</td>
+					</tr>
+					</#if>
+					<tr>
+						<td><strong>Cholesterol</strong>&nbsp;&nbsp;${nutrition_cholesterol_amt!"0g"}</td>
+						<td><strong>${nutrition_cholesterol_dv!0}%</strong></td>
+					</tr>
+					<tr>
+						<td><strong>Sodium</strong>&nbsp;&nbsp;${nutrition_sodium_amt!"0g"}</td>
+						<td><strong>${nutrition_sodium_dv!0}%</strong></td>
+					</tr>
+					<#if nutrition_potassium_amt??>
+					<tr>
+						<td><strong>Potassium</strong>&nbsp;&nbsp;${nutrition_potassium_amt}</td>
+						<td><strong>${nutrition_potassium_dv!0}%</strong></td>
+					</tr>
+					</#if>
+					<tr>
+						<td><strong>Total&nbsp;Carbohydrates</strong>&nbsp;&nbsp;${nutrition_carbohydrates_amt!"0g"}</td>
+						<td><strong>${nutrition_carbohydrates_dv!0}%</strong></td>
+					</tr>
+					<tr indent>
+						<td>Dietary Fiber&nbsp;&nbsp;${nutrition_fiber_amt!"0g"}</td>
+						<td><strong>${nutrition_fiber_dv!0}%</strong></td>
+					</tr>
+					<tr indent>
+						<th>Sugars&nbsp;&nbsp;${nutrition_sugars_amt!"0g"}</th>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td><strong>Protein</strong>&nbsp;&nbsp;${nutrition_protein_amt!"0g"}</td>
+						<#if nutrition_protein_dv??>
+						<td><strong>${nutrition_protein_dv!0}%</strong></td>
+						<#else>
+						<td>&nbsp;</td>
+						</#if>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr><th>Vitamin A</th><td>${nutrition_vitamina_dv!0}%</td></tr>
+					<tr><th>Vitamin C</th><td>${nutrition_vitaminc_dv!0}%</td></tr>
+					<tr><th>Calcium</th><td>${nutrition_calcium_dv!0}%</td></tr>
+					<tr><th>Iron</th><td>${nutrition_iron_dv!0}%</td></tr>
+					<!-- Optional Vitamins -->
+					<#if nutrition_vitamind_dv??><tr><th>Vitamin D</th><td>${nutrition_vitamind_dv}%</td></tr></#if>
+					<#if nutrition_vitamine_dv??><tr><th>Vitamin E</th><td>${nutrition_vitamine_dv}%</td></tr></#if>
+					<#if nutrition_vitamink_dv??><tr><th>Vitamin K</th><td>${nutrition_vitamink_dv}%</td></tr></#if>
+					<#if nutrition_niacin_dv??><tr><th>Niacin</th><td>${nutrition_niacin_dv}%</td></tr></#if>
+					<#if nutrition_phosphorus_dv??><tr><th>Phosphorus</th><td>${nutrition_phosphorus_dv}%</td></tr></#if>
+					<#if nutrition_magnesium_dv??><tr><th>Magnesium</th><td>${nutrition_magnesium_dv}%</td></tr></#if>
+					<#if nutrition_manganese_dv??><tr><th>Manganese</th><td>${nutrition_manganese_dv}%</td></tr></#if>
+					<#if nutrition_riboflavin_dv??><tr><th>Riboflavin</th><td>${nutrition_riboflavin_dv}%</td></tr></#if>
+					<#if nutrition_folate_dv??><tr><th>Folate</th><td>${nutrition_folate_dv}%</td></tr></#if>
+					<#if nutrition_vitaminb12_dv??><tr><th>Vitamin B12</th><td>${nutrition_vitaminb12_dv}%</td></tr></#if>
+					<#if nutrition_biotin_dv??><tr><th>Biotin</th><td>${nutrition_biotin_dv}%</td></tr></#if>
+					<#if nutrition_pantothenicacid_dv??><tr><th>Pantothenic Acid</th><td>${nutrition_pantothenicacid_dv}%</td></tr></#if>
+					<#if nutrition_zinc_dv??><tr><th>Zinc</th><td>${nutrition_zinc_dv}%</td></tr></#if>
+					<#if nutrition_selenium_dv??><tr><th>Selenium</th><td>${nutrition_selenium_dv}%</td></tr></#if>
+					<#if nutrition_copper_dv??><tr><th>Copper</th><td>${nutrition_copper_dv}%</td></tr></#if>
+					<#if nutrition_chromium_dv??><tr><th>Chromium</th><td>${nutrition_chromium_dv}%</td></tr></#if>
+					<#if nutrition_molybdenum_dv??><tr><th>Molybdenum</th><td>${nutrition_molybdenum_dv}%</td></tr></#if>
+					<#if nutrition_chloride_dv??><tr><th>Chloride</th><td>${nutrition_chloride_dv}%</td></tr></#if>
+					<#if nutrition_iodine_dv??><tr><th>Iodine</th><td>${nutrition_iodine_dv}%</td></tr></#if>
+					<#if nutrition_thiamin_dv??><tr><th>Thiamin</th><td>${nutrition_thiamin_dv}%</td></tr></#if>
+					<tr><td colspan="2">*Percent Daily Values are based on a 2,000 calorie diet.</td></tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td colspan="2"><p class="nutrition-ingredients">${nutrition_ingredients!""}</p></td>
+					</tr>
+					<#if nutrition_allergens??><tr>
+						<td colspan="2"><p class="nutrition-allergens">${nutrition_allergens!""}</p></td>
+					</tr></#if>
+					<#if nutrition_contains??><tr>
+						<td colspan="2"><p class="nutrition-contains">${nutrition_contains!""}</p></td>
+					</tr></#if>
+				</tbody>
+			</table>
+		</div>
+	</div></div>
+</section></td><td><section><div>
+	<div class="product-images">
+		<div>
+			<#if Image??><div class="product-image product-image-selected" style="background-image: url(${Image});"></div><#else><h2>No Images</h2></#if>
+			<div>${Image?replace("=2400", "=480")}</div>
+			<#if (alt_image?size>0)>
+				<#list alt_image as altimage>
+					<div onclick="$(this).addClass('selected').siblings().removeClass('selected'); $('.product-image-selected').css({backgroundImage:'url(${altimage})'})" class="product-image product-image-thumb" style="background-image: url(${altimage});" ></div>
+				</#list>
+			</#if>
+		</div>
+	</div></div>
+</section></td></tr></table>

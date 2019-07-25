@@ -1,0 +1,11 @@
+<section>
+    <div>
+    	<#if Products?has_content><h2>${Products[0].BrandName}</h2></#if>
+        <p>${Products?size!0} Products</p>
+        <ul>
+            <#list Products as product>
+                <li><a target="iframe_2" href="/ui/kraft/product/${product.GTIN}" Xhref="/kraft/brands/${product.BrandID!''}/product/${product.GTIN}">${product.Name} (${product.GTIN})</a></li>
+            </#list>
+        </ul>
+    </div>
+</section>

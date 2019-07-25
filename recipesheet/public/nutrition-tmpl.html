@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Nutrition Tmpl</title>
+	<link rel="stylesheet" href="/css/product-nutrition.css">
+	<link rel="stylesheet" href="/css/styles.css">
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+</head>
+<script type="text/javascript">
+
+function formatCode(str){
+	return str.replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function htmlEntities(str) {
+    if(!str) return ''
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+</script>
+<style>
+html,body {
+	font-size: 14px;
+}
+[optional] {
+	color:#999;
+	background-color: #eee;
+}
+.code {
+	border:1px solid #999;
+	padding: 10px;
+	background-color: #333;
+	color:#fff;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: monospace;
+}
+.injection {
+	color: #ff9900;
+}
+.indent {
+	display: inline-block;
+	width: 40px;
+}
+
+.nutrition-container>table {
+	padding:20px;
+}
+.nutrition-container {
+    max-width: 2000px!important;
+}
+</style>
+<body>
+
+	            <section style="max-width: 1000px; margin: 0 auto; display: block;">
+	                <div>
+	                    <div>
+
+							<table style="border:1px solid; width: 100%;" cellpadding="5">
+								<thead>
+									<tr>
+										<td colspan="2"><h3 style="text-align: center;">Legend</h3></td>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td style="width:30%">Style Indicates Optional Information</td>
+										<td optional>Nutrition Information</td>
+									</tr>
+									<tr>
+										<td>Provide defaults for required values. Refer to FreeMarker Docs</td>
+										<td>
+											<div class="code">
+												${ <span class="injection">[FACET NAME]</span> ! "<span class="injection">[DEFAULT VALUE]</span>"}
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>Optional items need to be wrapped in an #if so they do not render if the facet value is not set</td>
+										<td>
+											<div class="code">
+												&lt;#if nutrition_caloriesfromfat??&gt;<br>
+													<span class="indent"></span>&lt;tr indent&gt;<br>
+														<span class="indent"></span><span class="indent"></span>&lt;th&gt;Calories&nbsp;From&nbsp;Fat&lt;/th&gt;<br>
+														<span class="indent"></span><span class="indent"></span>&lt;td&gt;${nutrition_caloriesfromfat}&lt;/td&gt;<br>
+													<span class="indent"></span>&lt;/tr&gt;<br>
+												&lt;/#if&gt;<br>
+											</div>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+
+							<table style="margin-top: 20px;">
+								<tr>
+									<th>Facet Mapping</th>
+									<th>Example rendered template</th>
+								</tr>
+								<tr>
+									<td>
+										
+				                        <div class="nutrition-container">
+				                            <table class="nutrition" border="0" cellpadding="0" cellspacing="0" title="Nutrition Facts for ${Name!" No Name "}">
+				                                <tbody>
+				                                    <tr class="no-line">
+				                                        <td colspan="2">
+				                                            <h2>Nutrition Facts</h2>
+				                                        </td>
+				                                    </tr>
+				                                    <tr>
+				                                        <td colspan="2">
+				                                            Serving size ${nutrition_servingsize!"1"}
+				                                            <br> Servings per container ${nutrition_servings!"1"}
+				                                        </td>
+				                                    </tr>
+				                                </tbody>
+				                                <tbody>
+				                                    <tr>
+				                                        <td colspan="2"><strong>Amount Per Serving</strong></td>
+				                                    </tr>
+				                                    <tr>
+				                                        <td>
+				                                            <h3>Calories</h3>
+				                                        </td>
+				                                        <td style="vertical-align: bottom;">
+				                                            <h3>${nutrition_calories!0}</h3>
+				                                        </td>
+				                                    </tr>
+			                                        <tr indent optional>
+			                                            <th>Calories&nbsp;From&nbsp;Fat</th>
+			                                            <td>${nutrition_caloriesfromfat}</td>
+			                                        </tr>
+				                                </tbody>
+				                                <tbody>
+				                                    <tr>
+				                                        <th colspan="2" style="text-align:right" class="small">% Daily Value*</th>
+				                                    </tr>
+				                                    <tr>
+				                                        <td><strong>Total&nbsp;Fat</strong>&nbsp;&nbsp;${nutrition_fat_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_fat_dv!0}%</strong></td>
+				                                    </tr>
+				                                    <tr indent>
+				                                        <td>Saturated&nbsp;Fat&nbsp;&nbsp;${nutrition_saturatedfat_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_saturatedfat_dv!0}%</strong></td>
+				                                    </tr>
+				                                    <tr indent>
+				                                        <td><i>Trans</i>&nbsp;Fat&nbsp;&nbsp;${nutrition_transfat_amt!"0g"}</td>
+				                                        <td>&nbsp;</td>
+				                                    </tr>
+			                                        <tr indent optional>
+			                                            <td>Polyunsat&nbsp;Fat&nbsp;&nbsp;${nutrition_polyunsaturatedfat_amt}</td>
+			                                            <td>&nbsp;</td>
+			                                        </tr>
+			                                        <tr indent optional>
+			                                            <td>Monounsat&nbsp;Fat&nbsp;&nbsp;${nutrition_monounsaturatedfat_amt}</td>
+			                                            <td>&nbsp;</td>
+			                                        </tr>
+				                                    <tr>
+				                                        <td><strong>Cholesterol</strong>&nbsp;&nbsp;${nutrition_cholesterol_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_cholesterol_dv!0}%</strong></td>
+				                                    </tr>
+				                                    <tr>
+				                                        <td><strong>Sodium</strong>&nbsp;&nbsp;${nutrition_sodium_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_sodium_dv!0}%</strong></td>
+				                                    </tr>
+				                                        <tr optional>
+				                                            <td><strong>Potassium</strong>&nbsp;&nbsp;${nutrition_potassium_amt}</td>
+				                                            <td><strong>${nutrition_potassium_dv!0}%</strong></td>
+				                                        </tr>
+				                                    <tr>
+				                                        <td><strong>Total&nbsp;Carbohydrates</strong>&nbsp;&nbsp;${nutrition_carbohydrates_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_carbohydrates_dv!0}%</strong></td>
+				                                    </tr>
+				                                    <tr indent>
+				                                        <td>Dietary Fiber&nbsp;&nbsp;${nutrition_fiber_amt!"0g"}</td>
+				                                        <td><strong>${nutrition_fiber_dv!0}%</strong></td>
+				                                    </tr>
+				                                    <tr indent>
+				                                        <th>Sugars&nbsp;&nbsp;${nutrition_sugars_amt!"0g"}</th>
+				                                        <td>&nbsp;</td>
+				                                    </tr>
+				                                    <tr>
+				                                        <td><strong>Protein</strong>&nbsp;&nbsp;${nutrition_protein_amt!"0g"}</td>
+				                                        <td optional><strong>${nutrition_protein_dv!0}%</strong></td>
+				                                    </tr>
+				                                </tbody>
+				                                <tbody>
+				                                    <tr>
+				                                        <th>Vitamin A</th>
+				                                        <td>${nutrition_vitamina_dv!0}%</td>
+				                                    </tr>
+				                                    <tr>
+				                                        <th>Vitamin C</th>
+				                                        <td>${nutrition_vitaminc_dv!0}%</td>
+				                                    </tr>
+				                                    <tr>
+				                                        <th>Calcium</th>
+				                                        <td>${nutrition_calcium_dv!0}%</td>
+				                                    </tr>
+				                                    <tr>
+				                                        <th>Iron</th>
+				                                        <td>${nutrition_iron_dv!0}%</td>
+				                                    </tr>
+				                                    
+			                                        <tr optional>
+			                                            <th>Vitamin D</th>
+			                                            <td>${nutrition_vitamind_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Vitamin E</th>
+			                                            <td>${nutrition_vitamine_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Vitamin K</th>
+			                                            <td>${nutrition_vitamink_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Niacin</th>
+			                                            <td>${nutrition_niacin_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Phosphorus</th>
+			                                            <td>${nutrition_phosphorus_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Magnesium</th>
+			                                            <td>${nutrition_magnesium_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Manganese</th>
+			                                            <td>${nutrition_manganese_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Riboflavin</th>
+			                                            <td>${nutrition_riboflavin_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Folate</th>
+			                                            <td>${nutrition_folate_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Vitamin B12</th>
+			                                            <td>${nutrition_vitaminb12_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Biotin</th>
+			                                            <td>${nutrition_biotin_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Pantothenic Acid</th>
+			                                            <td>${nutrition_pantothenicacid_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Zinc</th>
+			                                            <td>${nutrition_zinc_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Selenium</th>
+			                                            <td>${nutrition_selenium_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Copper</th>
+			                                            <td>${nutrition_copper_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Chromium</th>
+			                                            <td>${nutrition_chromium_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Molybdenum</th>
+			                                            <td>${nutrition_molybdenum_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Chloride</th>
+			                                            <td>${nutrition_chloride_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Iodine</th>
+			                                            <td>${nutrition_iodine_dv}%</td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <th>Thiamin</th>
+			                                            <td>${nutrition_thiamin_dv}%</td>
+			                                        </tr>
+				                                    <tr>
+				                                        <td colspan="2">*Percent Daily Values are based on a 2,000 calorie diet.</td>
+				                                    </tr>
+				                                </tbody>
+				                                <tbody>
+				                                    <tr>
+				                                        <td colspan="2">
+				                                            <p class="nutrition-ingredients">${nutrition_ingredients!""}</p>
+				                                        </td>
+				                                    </tr>
+			                                        <tr optional>
+			                                            <td colspan="2">
+			                                                <p class="nutrition-allergens">${nutrition_allergens!""}</p>
+			                                            </td>
+			                                        </tr>
+			                                        <tr optional>
+			                                            <td colspan="2">
+			                                                <p class="nutrition-contains">${nutrition_contains!""}</p>
+			                                            </td>
+			                                        </tr>
+				                                </tbody>
+				                            </table>
+				                        </div>
+				                    
+	                    			</td>
+			                    	<td>
+			                    		<div class="nutrition-container">
+			                    		
+											<table class="nutrition" border="0" cellpadding="0" cellspacing="0" title="Nutrition Facts for Heinz Tomato Ketchup 14 oz Squeeze Bottle">
+												<tbody>
+													<tr class="no-line">
+														<td colspan="2">
+															<h2>Nutrition Facts</h2>
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															Serving size 1 Tbsp (17g)<br>
+															Servings per container 23
+														</td>
+													</tr>
+												</tbody>
+												<tbody>
+													<tr>
+														<td colspan="2"><strong>Amount Per Serving</strong></td>
+													</tr>
+													<tr>
+														<td><h3>Calories</h3></td>
+														<td style="vertical-align: bottom;"><h3>20</h3></td>
+													</tr>
+													<tr indent="">
+														<th>Calories&nbsp;From&nbsp;Fat</th>
+														<td>0</td>
+													</tr>
+												</tbody>
+												<tbody>
+													<tr>
+														<th colspan="2" style="text-align:right" class="small">% Daily Value*</th>
+													</tr>
+													<tr>
+														<td><strong>Total&nbsp;Fat</strong>&nbsp;&nbsp;0g</td>
+														<td><strong>0%</strong></td>
+													</tr>
+													<tr indent="">
+														<td>Saturated&nbsp;Fat&nbsp;&nbsp;0g</td>
+														<td><strong>0%</strong></td>
+													</tr>
+													<tr indent="">
+														<td><i>Trans</i>&nbsp;Fat&nbsp;&nbsp;0g</td>
+														<td>&nbsp;</td>
+													</tr>
+													<tr>
+														<td><strong>Cholesterol</strong>&nbsp;&nbsp;0g</td>
+														<td><strong>0%</strong></td>
+													</tr>
+													<tr>
+														<td><strong>Sodium</strong>&nbsp;&nbsp;160mg</td>
+														<td><strong>7%</strong></td>
+													</tr>
+													<tr>
+														<td><strong>Total&nbsp;Carbohydrates</strong>&nbsp;&nbsp;5g</td>
+														<td><strong>2%</strong></td>
+													</tr>
+													<tr indent="">
+														<td>Dietary Fiber&nbsp;&nbsp;0g</td>
+														<td><strong>0%</strong></td>
+													</tr>
+													<tr indent="">
+														<th>Sugars&nbsp;&nbsp;4g</th>
+														<td>&nbsp;</td>
+													</tr>
+													<tr>
+														<td><strong>Protein</strong>&nbsp;&nbsp;0g</td>
+														<td>&nbsp;</td>
+													</tr>
+												</tbody>
+												<tbody>
+													<tr><th>Vitamin A</th><td>2%</td></tr>
+													<tr><th>Vitamin C</th><td>2%</td></tr>
+													<tr><th>Calcium</th><td>0%</td></tr>
+													<tr><th>Iron</th><td>0%</td></tr>
+													<tr><td colspan="2">*Percent Daily Values are based on a 2,000 calorie diet.</td></tr>
+												</tbody>
+												<tbody>
+													<tr>
+														<td colspan="2"><p class="nutrition-ingredients">TOMATO CONCENTRATE FROM RED RIPE TOMATOES, DISTILLED VINEGAR, HIGH FRUCTOSE CORN SYRUP, CORN SYRUP, SALT, SPICE, ONION POWDER, NATURAL FLAVORING.</p></td>
+													</tr>
+												</tbody>
+											</table>
+											
+
+										</div>
+			                    	</td>
+	                			</tr>
+	            			</table>
+
+
+	                    </div>
+	                </div>
+	            </section>
+
+
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+/*html {
+	font-size: 10px;
+	font-family: Arial, Verdana, sans-serif;
+}
+* {
+	vertical-align: top;
+}
+td {
+	vertical-align: top;
+}
+li>a {
+	display: inline-block;
+	max-width: 300px;
+}*/
+
+.product-title,
+.product-details {
+	font-size: 10px;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+.product-details {
+	/*display: inline-block;*/
+	/*width: 50%;*/
+}
+.product-images {
+	/*display: inline-block;*/
+	/*width: 50%;*/
+}
+.product-title>div,
+.product-details>div,
+.product-images>div {
+	/*padding: 20px;*/
+}
+.product-images {
+	position: relative;
+}
+.product-image {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+.product-image-selected {
+	width: 100%;
+	padding-top: 70%;
+	box-sizing: border-box;
+}
+.product-image-thumb {
+	position: relative;
+	display: inline-block;
+	width:60px; 
+	height:60px;
+}
+
+.nutrition-ingredients {
+	text-align: justify;
+}
+.nutrition-ingredients::before {
+	content:"INGREDIENTS:";
+	margin-right: 4px;
+	font-weight: bold;
+	display: inline-block;
+}
+.nutrition-allergens::before {
+	content:"ALLERGENS:";
+	margin-right: 4px;
+	font-weight: bold;
+	display: inline-block;
+}
+.nutrition-contains::before {
+	content:"CONTAINS:";
+	margin-right: 4px;
+	font-weight: bold;
+	display: inline-block;
+}
+.nutrition-container {
+	width: 100%;
+	max-width: 300px;
+	font-size: 12px;
+}
+.nutrition-container * {
+	font-size: 12px;
+}
+.nutrition-container h2 {
+	font-size: 32px;
+	margin:10px 0 5px 0;
+}
+.nutrition-container h3 {
+	font-size: 16px;
+	font-weight: bold;
+	margin:10px 0 5px 0;
+}
+.nutrition tbody>tr:last-child>* {
+	border-bottom: 4px solid #333;
+}
+.nutrition tbody:last-child>tr:last-child>* {
+	border-bottom: none;
+}
+.nutrition th, .nutrition td {
+	border-bottom: 1px solid #CCC;
+	padding: 2px;
+}
+.nutrition th {
+	text-align: left;
+	white-space: nowrap;
+}
+.nutrition tr.no-line>* {
+	border-bottom: none;
+}
+.nutrition th>span {
+	font-weight: normal;
+}
+.nutrition h3 {
+	margin:0;
+	font-size: 20px;
+}
+.nutrition td {
+	text-align: right;
+}
+.nutrition td:first-child {
+	text-align: left;
+}
+.nutrition tr[indent]>*:first-child {
+	font-weight: normal;
+	text-indent: 20px;
+}
+.nutrition .small {
+	font-size: 11px;
+	line-height: 1;
+}

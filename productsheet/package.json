@@ -1,0 +1,37 @@
+{
+  "name": "xls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build-prod": "node --max_old_space_size=8048 ./node_modules/@angular/cli/bin/ng build --prod"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "exceljs": "^0.2.46",
+    "xlsx": "^0.8.1"
+  },
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.18.3",
+    "connect-timeout": "^1.9.0",
+    "express": "^4.16.3",
+    "freemarker": "^1.4.2",
+    "freemarker.js": "^1.4.0",
+    "fs-extra-promise": "^0.4.1",
+    "image-size": "^0.6.1",
+    "imagesize": "^1.0.0",
+    "node-lmdb": "^0.4.13",
+    "openport": "0.0.4",
+    "opn": "^5.3.0",
+    "path-to-regexp": "^2.0.0",
+    "request": "^2.87.0",
+    "sha1": "^1.1.1",
+    "xlsx-to-json": "^0.3.0"
+  }
+}

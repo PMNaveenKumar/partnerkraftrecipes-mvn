@@ -1,0 +1,4568 @@
+{
+  "Metadata": {
+    "PageCount": 1,
+    "PageNo": 0,
+    "TotalCount": 0
+  },
+  "Recipes": [
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69069,
+          "IngredientName": "(1/4 oz.) KNOX Unflavored Gelatine",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "env.",
+          "RecipeIngredientID": 599924,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68096,
+          "IngredientName": "milk",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 599922,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 73066,
+          "IngredientName": "chocolate malted milk powder",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 3,
+          "QuantityText": "3",
+          "QuantityUnit": "Tbsp.",
+          "RecipeIngredientID": 599926,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 74689,
+          "IngredientName": "(4 oz. each) BAKER'S Rich Milk Chocolate (6 oz.), chopped",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "pkg.",
+          "RecipeIngredientID": 599925,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68636,
+          "IngredientName": "vanilla",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 599923,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67974,
+          "IngredientName": "thawed COOL WHIP Whipped Topping, divided",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.33,
+          "QuantityText": "1-1/3",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 599921,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69831,
+          "IngredientName": "chocolate malted milk balls, chopped",
+          "IngredientStep": 70,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 18,
+          "QuantityText": "18",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 599927,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "582348",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 7,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "6 servings, 1/2 cup each",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 290,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 38,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 31,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 14,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 3,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 15,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 90,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 3,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Sprinkle gelatine over milk in medium saucepan; let stand 1 min.  Add malted milk powder; stir.  Cook on low heat 3 min. or until gelatine and milk powder are completely dissolved, stirring constantly.  Add chopped milk chocolate; cook 3 min. or until chocolate is completely melted and mixture is well blended, stirring constantly.  Remove from heat.  Stir in vanilla. $Pour through fine-mesh strainer into bowl; place bowl in larger bowl filled with ice water.  Stir chocolate mixture 3 min. or until slightly thickened.  Pour into large bowl.  Gently stir in 1 cup COOL WHIP; spoon into 6 dessert glasses.$Refrigerate 4 hours or until firm.$Top with remaining COOL WHIP and chopped malted milk balls before serving.",
+      "PreparationPreText": null,
+      "PreparationSteps": [
+        {
+          "Description": "Sprinkle gelatine over milk in medium saucepan; let stand 1 min.  Add malted milk powder; stir.  Cook on low heat 3 min. or until gelatine and milk powder are completely dissolved, stirring constantly.  Add chopped milk chocolate; cook 3 min. or until chocolate is completely melted and mixture is well blended, stirring constantly.  Remove from heat.  Stir in vanilla. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Pour through fine-mesh strainer into bowl; place bowl in larger bowl filled with ice water.  Stir chocolate mixture 3 min. or until slightly thickened.  Pour into large bowl.  Gently stir in 1 cup COOL WHIP; spoon into 6 dessert glasses.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Refrigerate 4 hours or until firm.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        },
+        {
+          "Description": "Top with remaining COOL WHIP and chopped malted milk balls before serving.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 4
+        }
+      ],
+      "PreparationTime": 20,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212894,
+      "RecipeName": "Malted Milk-Chocolate Mousse",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67974,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": "00043000009536",
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68096,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68636,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69069,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": "00043000048689",
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69831,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": null,
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 73066,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212894
+        },
+        {
+          "IngredientCategory": "RISE",
+          "IngredientId": 74689,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00043000077856",
+          "RecipeId": 212894
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212894,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 63,
+          "TaxonomyName": "Desserts",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 49,
+          "RecipeId": 212894,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 220,
+          "TaxonomyName": "Mousse",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 582348,
+          "RecipeId": 212894,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": "A melted milk chocolate mixture is thickened with unflavored gelatine and blended with whipped topping for an easy and airy dessert classic.",
+      "SEOName": "malted-milk-chocolate-mousse-212894",
+      "Tips": [
+        {
+          "RecipeId": 212894,
+          "Sequence": 10,
+          "TipDescription": "Sweets can be part of a balanced diet but remember to keep tabs on portions.",
+          "TipID": 1,
+          "TipName": "Size Wise"
+        }
+      ],
+      "TotalTime": 260,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "6 servings, 1/2 cup each"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68655,
+          "IngredientName": "OSCAR MAYER Bacon, cut into 1/2-inch-thick slices",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 8,
+          "QuantityText": "8",
+          "QuantityUnit": "slices",
+          "RecipeIngredientID": 601046,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68776,
+          "IngredientName": "chopped onions",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 601047,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68035,
+          "IngredientName": "poblano chile, chopped",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 601060,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68817,
+          "IngredientName": "minced garlic",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 2,
+          "QuantityText": "2",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 601049,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 70459,
+          "IngredientName": "(32 oz.) fat-free reduced-sodium chicken broth, divided",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "carton",
+          "RecipeIngredientID": 601052,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71002,
+          "IngredientName": "baking potatoes (about 2), peeled, cut into 1/2-inch pieces",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 601053,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68530,
+          "IngredientName": "ground cumin",
+          "IngredientStep": 70,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 601055,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69099,
+          "IngredientName": "flour",
+          "IngredientStep": 80,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.25,
+          "QuantityText": "1/4",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 601050,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71008,
+          "IngredientName": "(8 oz.) PHILADELPHIA Neufchatel Cheese, softened",
+          "IngredientStep": 90,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "pkg.",
+          "RecipeIngredientID": 601054,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68542,
+          "IngredientName": "ears corn on the cob, husks and silk removed",
+          "IngredientStep": 100,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 2,
+          "QuantityText": "2",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 601051,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 73350,
+          "IngredientName": "(8 oz.) KRAFT Shredded Pepper Jack Cheese, divided",
+          "IngredientStep": 110,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "pkg.",
+          "RecipeIngredientID": 601057,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68944,
+          "IngredientName": "avocado, chopped",
+          "IngredientStep": 120,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 601058,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71604,
+          "IngredientName": "chopped fresh cilantro",
+          "IngredientStep": 130,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.25,
+          "QuantityText": "1/4",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 601059,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "582468",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 13,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "8 servings, 1 cup each",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 380,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 15,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 26,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 3,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 23,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 12,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 3.5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 1,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 55,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 30,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 660,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Cook and stir bacon in large skillet on medium heat until crisp.  Remove bacon from skillet with slotted spoon; drain on paper towels.  Discard all but 2 Tbsp. drippings from skillet. Refrigerate cooled cooked bacon until ready to use.  $Add onions, chiles and garlic to reserved drippings in skillet; cook and stir 3 to 4 min. or until onions are crisp-tender.  Spoon into slow cooker sprayed with cooking spray.  Stir in 3 cups broth. Add potatoes and cumin; stir.  $Whisk flour and remaining broth until blended.  Gradually add to Neufchatel in medium bowl, mixing well after each addition.  Add to slow cooker; stir.   Cover with lid.  Cook on LOW 6 to 7 hours (or HIGH 3 to 4 hours). $Cut corn kernels off the cobs.  Add to ingredients in slow cooker along with 1-1/2 cups of the shredded cheese; stir until shredded cheese is melted.  Cook, covered, 5 min. or until heated through. $Place bacon on paper towel-covered microwaveable plate.  Microwave on HIGH 20 to 30 sec. or until heated through.  Serve soup topped with bacon, remaining shredded cheese, avocados and cilantro.",
+      "PreparationPreText": null,
+      "PreparationSteps": [
+        {
+          "Description": "Cook and stir bacon in large skillet on medium heat until crisp.  Remove bacon from skillet with slotted spoon; drain on paper towels.  Discard all but 2 Tbsp. drippings from skillet. Refrigerate cooled cooked bacon until ready to use.  ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Add onions, chiles and garlic to reserved drippings in skillet; cook and stir 3 to 4 min. or until onions are crisp-tender.  Spoon into slow cooker sprayed with cooking spray.  Stir in 3 cups broth. Add potatoes and cumin; stir.  ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Whisk flour and remaining broth until blended.  Gradually add to Neufchatel in medium bowl, mixing well after each addition.  Add to slow cooker; stir.   Cover with lid.  Cook on LOW 6 to 7 hours (or HIGH 3 to 4 hours). ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        },
+        {
+          "Description": "Cut corn kernels off the cobs.  Add to ingredients in slow cooker along with 1-1/2 cups of the shredded cheese; stir until shredded cheese is melted.  Cook, covered, 5 min. or until heated through. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 4
+        },
+        {
+          "Description": "Place bacon on paper towel-covered microwaveable plate.  Microwave on HIGH 20 to 30 sec. or until heated through.  Serve soup topped with bacon, remaining shredded cheese, avocados and cilantro.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 5
+        }
+      ],
+      "PreparationTime": 40,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212898,
+      "RecipeName": "Slow-Cooker Corn & Poblano Chowder",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68035,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68530,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68542,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68655,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": "00044700071205",
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68776,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68817,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68944,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69099,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 70459,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71002,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71008,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000612475",
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71604,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212898
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 73350,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000053131",
+          "RecipeId": 212898
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212898,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 65,
+          "TaxonomyName": "Entrées",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 45,
+          "RecipeId": 212898,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 174,
+          "TaxonomyName": "Soups, Hot",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 582468,
+          "RecipeId": 212898,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "slow-cooker-corn-poblano-chowder-212898",
+      "Tips": [
+        {
+          "RecipeId": 212898,
+          "Sequence": 1,
+          "TipDescription": "Serve with fresh lime wedges.",
+          "TipID": 1,
+          "TipName": "Special Extra"
+        },
+        {
+          "RecipeId": 212898,
+          "Sequence": 2,
+          "TipDescription": "Serve with crusty, whole wheat rolls.",
+          "TipID": 2,
+          "TipName": "Serving Suggestion"
+        }
+      ],
+      "TotalTime": 400,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "8 servings, 1 cup each"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69099,
+          "IngredientName": "flour",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 2.25,
+          "QuantityText": "2-1/4",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 646174,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 75631,
+          "IngredientName": "BAKER'S 100% Pure Cocoa Powder",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 646177,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68631,
+          "IngredientName": "baking soda",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 646172,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67994,
+          "IngredientName": "butter, softened",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 646170,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68208,
+          "IngredientName": "granulated sugar",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 646180,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68563,
+          "IngredientName": "packed  brown sugar",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 646171,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68794,
+          "IngredientName": "egg",
+          "IngredientStep": 70,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 646173,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68636,
+          "IngredientName": "vanilla",
+          "IngredientStep": 80,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 646181,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 72343,
+          "IngredientName": "foil-wrapped milk chocolate pieces",
+          "IngredientStep": 90,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 30,
+          "QuantityText": "30",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 646179,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69126,
+          "IngredientName": "BAKER'S White Chocolate",
+          "IngredientStep": 100,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 3,
+          "QuantityText": "3",
+          "QuantityUnit": "oz.",
+          "RecipeIngredientID": 646175,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68024,
+          "IngredientName": "(4.25 oz.) orange decorating icing",
+          "IngredientStep": 110,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "tube",
+          "RecipeIngredientID": 646178,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "574102",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 11,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "30 servings, 1 cookie each",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 180,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 24,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 0.7816,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 16,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 9,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 8,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 70,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 13,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Combine flour, cocoa powder and baking soda.  Beat butter and sugars in large bowl with mixer until light and fluffy.  Blend in egg and vanilla.  Gradually add dry ingredients, mixing well after each addition. $Drop dough into 30 mounds, 2 inches apart, on parchment-covered baking sheets.  Gently flatten each mound with bottom of clean drinking glass.$Bake 8 to 10 min. or until lightly browned.  Cool on baking sheet 2 min. Gently press 1 milk chocolate piece into top of each warm cookie.  Remove cookies to wire racks; cool completely.$Melt white chocolate as directed on package; spoon into resealable plastic bag.  Cut small piece off one bottom corner of bag; use to squeeze some of the melted chocolate into spider web pattern around edge of each cookie as shown in photo.  Use remaining melted chocolate to add 2 small dots of chocolate to each milk chocolate piece for the spider's eyes.  Let stand 10 min. or until chocolate is firm.   $Use orange decorating icing fitted with small round tip to add the spiders' legs as shown in photo. ",
+      "PreparationPreText": "Heat oven to 375ºF.",
+      "PreparationSteps": [
+        {
+          "Description": "Combine flour, cocoa powder and baking soda.  Beat butter and sugars in large bowl with mixer until light and fluffy.  Blend in egg and vanilla.  Gradually add dry ingredients, mixing well after each addition. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Drop dough into 30 mounds, 2 inches apart, on parchment-covered baking sheets.  Gently flatten each mound with bottom of clean drinking glass.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Bake 8 to 10 min. or until lightly browned.  Cool on baking sheet 2 min. Gently press 1 milk chocolate piece into top of each warm cookie.  Remove cookies to wire racks; cool completely.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        },
+        {
+          "Description": "Melt white chocolate as directed on package; spoon into resealable plastic bag.  Cut small piece off one bottom corner of bag; use to squeeze some of the melted chocolate into spider web pattern around edge of each cookie as shown in photo.  Use remaining melted chocolate to add 2 small dots of chocolate to each milk chocolate piece for the spider's eyes.  Let stand 10 min. or until chocolate is firm.   ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 4
+        },
+        {
+          "Description": "Use orange decorating icing fitted with small round tip to add the spiders' legs as shown in photo. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 5
+        }
+      ],
+      "PreparationTime": 30,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212899,
+      "RecipeName": "Halloween Spider Cookies",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67994,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68024,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68208,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68563,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68631,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68636,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68794,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69099,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69126,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00043000252208",
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 72343,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212899
+        },
+        {
+          "IngredientCategory": "RISE",
+          "IngredientId": 75631,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00043000081099",
+          "RecipeId": 212899
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212899,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 63,
+          "TaxonomyName": "Desserts",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 39,
+          "RecipeId": 212899,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 106,
+          "TaxonomyName": "Drop",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 574102,
+          "RecipeId": 212899,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "halloween-spider-cookies-212899",
+      "Tips": [
+        {
+          "RecipeId": 212899,
+          "Sequence": 20,
+          "TipDescription": "Make these treats with your kids for a fun weekend activity.",
+          "TipID": 1,
+          "TipName": "Family Fun"
+        },
+        {
+          "RecipeId": 212899,
+          "Sequence": 21,
+          "TipDescription": "Have fun with your kids making these spooky Halloween treats.  As a bonus, they can also be used to help teach kids about portion control.   ",
+          "TipID": 2,
+          "TipName": "Size Wise"
+        }
+      ],
+      "TotalTime": 70,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "30 servings, 1 cookie each"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67683,
+          "IngredientName": "extra virgin olive oil",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 2,
+          "QuantityText": "2",
+          "QuantityUnit": "Tbsp.",
+          "RecipeIngredientID": 639574,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 72180,
+          "IngredientName": "Italian sausage links, cut into 2-inch lengths",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 639569,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67929,
+          "IngredientName": "<u>each</u> green and red pepper, cut into thin strips",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 639570,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68573,
+          "IngredientName": "slivered red onions",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 639571,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 73749,
+          "IngredientName": "(24 oz.) CLASSICO Marinara with Plum Tomatoes & Olive Oil Pasta Sauce",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "jar",
+          "RecipeIngredientID": 639572,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "584057",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 5,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "4 servings",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 470,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 19,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 35,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 9,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 19,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 3.5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 50,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 60,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 15,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 8,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 1140,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Heat oil in large deep skillet on medium-high heat.   Add sausage; cook 3 to 4 min. or until evenly browned, turning after 2 min. Remove sausage from skillet; reserve for later use. $Add vegetables to skillet; cook 5 to 6 min. or until crisp-tender, stirring frequently.  Stir in pasta sauce. $Return sausage to skillet; stir.  Bring to boil, stirring frequently; cover. Simmer on medium-low heat 10 to 15 min. or until sausage is done, stirring occasionally.",
+      "PreparationPreText": null,
+      "PreparationSteps": [
+        {
+          "Description": "Heat oil in large deep skillet on medium-high heat.   Add sausage; cook 3 to 4 min. or until evenly browned, turning after 2 min. Remove sausage from skillet; reserve for later use. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Add vegetables to skillet; cook 5 to 6 min. or until crisp-tender, stirring frequently.  Stir in pasta sauce. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Return sausage to skillet; stir.  Bring to boil, stirring frequently; cover. Simmer on medium-low heat 10 to 15 min. or until sausage is done, stirring occasionally.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        }
+      ],
+      "PreparationTime": 30,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212900,
+      "RecipeName": "Italian Sausage, Peppers and Onions",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67683,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212900
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67929,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212900
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68573,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212900
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 72180,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": null,
+          "RecipeId": 212900
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 73749,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00041129632406",
+          "RecipeId": 212900
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 52,
+          "RecipeId": 212900,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 6,
+          "TaxonomyName": "Pork Chops with Sauce",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212900,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 65,
+          "TaxonomyName": "Entrées",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 584057,
+          "RecipeId": 212900,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "italian-sausage-peppers-onions-212900",
+      "Tips": [
+        {
+          "RecipeId": 212900,
+          "Sequence": 1,
+          "TipDescription": "Serve over hot cooked pasta, or as a sandwich filling for crusty Italian rolls. ",
+          "TipID": 1,
+          "TipName": "Serving Suggestion"
+        }
+      ],
+      "TotalTime": 30,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "4 servings"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69019,
+          "IngredientName": "chopped cooked chicken",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.75,
+          "QuantityText": "3/4",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 490008,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 70487,
+          "IngredientName": "KRAFT Natural Blue Cheese Crumbles",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.33,
+          "QuantityText": "1/3",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 490010,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 70958,
+          "IngredientName": "Buffalo wing sauce",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.25,
+          "QuantityText": "1/4",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 490011,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67839,
+          "IngredientName": "KRAFT Shredded Mozzarella Cheese, divided",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.25,
+          "QuantityText": "1-1/4",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 490007,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69113,
+          "IngredientName": "green onions, sliced, divided",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 3,
+          "QuantityText": "3",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 490009,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71143,
+          "IngredientName": "refrigerated pizza dough",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 490012,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "579816",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 6,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "9 servings",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 1,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 210,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 2,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 7,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 3,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 3.5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 4,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 5,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 6,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 7,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 8,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 610,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 10,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 11,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 12,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 3,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 13,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 12,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 14,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 15,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 16,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 17,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 8,
+          "Unit": "%DV       "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Combine chicken, blue cheese, wing sauce, 3/4 cup mozzarella and 1/4 cup onions.$Roll out dough on lightly floured surface to 12-inch square; cut into 36 smaller squares.  Place in single layer on parchment-covered baking sheets. Use thumb to press indentation into center of each square; fill with chicken mixture, adding about 2 tsp. chicken mixture to each square.  Sprinkle with remaining cheese. \n\n$Bake 10 to 12 min. or until edges of crusts are golden brown.  Sprinkle with remaining onions.",
+      "PreparationPreText": "Heat oven to 425ºF.",
+      "PreparationSteps": [
+        {
+          "Description": "Combine chicken, blue cheese, wing sauce, 3/4 cup mozzarella and 1/4 cup onions.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Roll out dough on lightly floured surface to 12-inch square; cut into 36 smaller squares.  Place in single layer on parchment-covered baking sheets. Use thumb to press indentation into center of each square; fill with chicken mixture, adding about 2 tsp. chicken mixture to each square.  Sprinkle with remaining cheese. \n\n",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Bake 10 to 12 min. or until edges of crusts are golden brown.  Sprinkle with remaining onions.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        }
+      ],
+      "PreparationTime": 20,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212901,
+      "RecipeName": "Buffalo Chicken Pizza Bites",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67839,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000053674",
+          "RecipeId": 212901
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69019,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212901
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69113,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212901
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 70487,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000011155",
+          "RecipeId": 212901
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 70958,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212901
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71143,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212901
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212901,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 60,
+          "TaxonomyName": "Appetizers",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 47,
+          "RecipeId": 212901,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 190,
+          "TaxonomyName": "Mini Bagel Pizzas or Pizza Rolls",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 579816,
+          "RecipeId": 212901,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "buffalo-chicken-pizza-bites-212901",
+      "Tips": [
+        {
+          "RecipeId": 212901,
+          "Sequence": 10,
+          "TipDescription": "Prepare using thawed frozen pizza dough.",
+          "TipID": 1,
+          "TipName": "Take Along"
+        },
+        {
+          "RecipeId": 212901,
+          "Sequence": 20,
+          "TipDescription": "Substitute your favorite hot sauce for the wing sauce.",
+          "TipID": 2,
+          "TipName": "Substitute"
+        }
+      ],
+      "TotalTime": 32,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "9 servings"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69099,
+          "IngredientName": "flour",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 645751,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68512,
+          "IngredientName": "CALUMET Baking Powder",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 645750,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67861,
+          "IngredientName": "salt",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 645753,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68563,
+          "IngredientName": "packed brown sugar",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 645747,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67994,
+          "IngredientName": "plus 2 Tbsp. butter, softened, divided",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 645746,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68405,
+          "IngredientName": "Granny Smith apple, shredded (about 1 cup)",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 645755,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68794,
+          "IngredientName": "egg",
+          "IngredientStep": 70,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 645748,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68636,
+          "IngredientName": "vanilla, divided",
+          "IngredientStep": 80,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "tsp.",
+          "RecipeIngredientID": 645749,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68324,
+          "IngredientName": "(1/2 of 8-oz. pkg.) PHILADELPHIA Cream Cheese, softened",
+          "IngredientStep": 90,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 4,
+          "QuantityText": "4",
+          "QuantityUnit": "oz.",
+          "RecipeIngredientID": 645752,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68849,
+          "IngredientName": "powdered sugar",
+          "IngredientStep": 100,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 645754,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "584276",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 10,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "24 servings, 1 cookie each",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 160,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 1,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 24,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 17,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 7,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 8,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 115,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 16,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Combine flour, baking powder and salt. Beat brown sugar and 1/2 cup butter in large bowl with mixer until light and fluffy.  Add apples, egg and 1/2 tsp. vanilla; mix well. Gradually add dry ingredients, mixing well after each addition.$Drop dough into 24 mounds, 2 inches apart, on baking sheets sprayed with cooking spray, using about 2 Tbsp. dough for each mound.$Bake 10 to 12 min. or until lightly browned. Cool 3 min. Remove from baking sheets to wire racks; cool completely.$Beat cream cheese and powdered sugar with remaining butter and vanilla in medium bowl with mixer until blended; spread onto cookies. ",
+      "PreparationPreText": "Heat oven to 375°F.",
+      "PreparationSteps": [
+        {
+          "Description": "Combine flour, baking powder and salt. Beat brown sugar and 1/2 cup butter in large bowl with mixer until light and fluffy.  Add apples, egg and 1/2 tsp. vanilla; mix well. Gradually add dry ingredients, mixing well after each addition.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Drop dough into 24 mounds, 2 inches apart, on baking sheets sprayed with cooking spray, using about 2 Tbsp. dough for each mound.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Bake 10 to 12 min. or until lightly browned. Cool 3 min. Remove from baking sheets to wire racks; cool completely.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        },
+        {
+          "Description": "Beat cream cheese and powdered sugar with remaining butter and vanilla in medium bowl with mixer until blended; spread onto cookies. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 4
+        }
+      ],
+      "PreparationTime": 20,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212904,
+      "RecipeName": "Apple Cookies with Cream Cheese Frosting",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67861,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67994,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68324,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00068100897210",
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68405,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68512,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": "00043000289303",
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68563,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68636,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68794,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68849,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69099,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212904
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212904,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 63,
+          "TaxonomyName": "Desserts",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 39,
+          "RecipeId": 212904,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 106,
+          "TaxonomyName": "Drop",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 584276,
+          "RecipeId": 212904,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "apple-cookies-cream-cheese-frosting-212904",
+      "Tips": [
+        {
+          "RecipeId": 212904,
+          "Sequence": 1,
+          "TipDescription": "Place completely unwrapped package of cream cheese in microwaveable bowl. Microwave on HIGH 10 sec. or just until softened. Add 15 sec. for each additional package of cream cheese. ",
+          "TipID": 5809,
+          "TipName": "How to Soften Cream Cheese"
+        },
+        {
+          "RecipeId": 212904,
+          "Sequence": 2,
+          "TipDescription": "Use 1 pkg. (3.4 oz.) JELL-O SIMPLY GOOD Vanilla Bean Flavor Pudding.",
+          "TipID": 5768,
+          "TipName": "Substitute"
+        },
+        {
+          "RecipeId": 212904,
+          "Sequence": 2,
+          "TipDescription": "Use 1 pkg. (3.4 oz.) JELL-O SIMPLY GOOD Vanilla Bean Flavor Pudding.",
+          "TipID": 5768,
+          "TipName": "Best Apples for Baking and Cooking"
+        },
+        {
+          "RecipeId": 212904,
+          "Sequence": 3,
+          "TipDescription": "Refrigerate frosted cookies up to 3 days. ",
+          "TipID": 1,
+          "TipName": "Storage Know-How"
+        },
+        {
+          "RecipeId": 212904,
+          "Sequence": 4,
+          "TipDescription": "You’ll know it’s a special occasion when you get to enjoy a serving of these delicious cookies.\n",
+          "TipID": 2,
+          "TipName": "Size Wise"
+        }
+      ],
+      "TotalTime": 62,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "24 servings, 1 cookie each"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 69244,
+          "IngredientName": "spaghetti, uncooked",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 646186,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68813,
+          "IngredientName": "olive oil",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "Tbsp.",
+          "RecipeIngredientID": 646183,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68817,
+          "IngredientName": "garlic, minced",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 3,
+          "QuantityText": "3",
+          "QuantityUnit": "cloves",
+          "RecipeIngredientID": 646182,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68324,
+          "IngredientName": "(1/4 of 8-oz. pkg.) PHILADELPHIA Cream Cheese, cubed",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 2,
+          "QuantityText": "2",
+          "QuantityUnit": "oz.",
+          "RecipeIngredientID": 646184,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68622,
+          "IngredientName": "KRAFT Shredded Parmesan Cheese, divided",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 646185,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "584313",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 5,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "4 servings, 1 cup each",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 400,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 17,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 44,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 17,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 8,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 2.5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 40,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 6,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 10,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 2,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 460,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Cook spaghetti in large saucepan as directed on package, omitting salt.  Drain, reserving 1 cup of the cooking water. Set spaghetti aside.$Heat oil in same saucepan on medium-low heat.  Add garlic; cook 1 to 2 min. or until lightly browned, stirring frequently. Add cream cheese, 3/4 cup Parmesan and 1/2 cup of the reserved pasta cooking water; cook 1 to 2 min. or until cream cheese is completely melted and sauce is well blended.$Return spaghetti to pan; toss until evenly coated.  If thinner consistency is desired, add enough of the remaining reserved pasta cooking water until sauce is of desired consistency. Top with remaining Parmesan.",
+      "PreparationPreText": null,
+      "PreparationSteps": [
+        {
+          "Description": "Cook spaghetti in large saucepan as directed on package, omitting salt.  Drain, reserving 1 cup of the cooking water. Set spaghetti aside.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Heat oil in same saucepan on medium-low heat.  Add garlic; cook 1 to 2 min. or until lightly browned, stirring frequently. Add cream cheese, 3/4 cup Parmesan and 1/2 cup of the reserved pasta cooking water; cook 1 to 2 min. or until cream cheese is completely melted and sauce is well blended.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Return spaghetti to pan; toss until evenly coated.  If thinner consistency is desired, add enough of the remaining reserved pasta cooking water until sauce is of desired consistency. Top with remaining Parmesan.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        }
+      ],
+      "PreparationTime": 20,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212905,
+      "RecipeName": "Garlic Spaghetti",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68324,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00068100897210",
+          "RecipeId": 212905
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68622,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000614448",
+          "RecipeId": 212905
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68813,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212905
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68817,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212905
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 69244,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212905
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 53,
+          "RecipeId": 212905,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 10,
+          "TaxonomyName": "Pasta, Alfredo",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212905,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 65,
+          "TaxonomyName": "Entrées",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 584313,
+          "RecipeId": 212905,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": "\n",
+      "SEOName": "garlic-spaghetti-212905",
+      "Tips": [
+        {
+          "RecipeId": 212905,
+          "Sequence": 10,
+          "TipDescription": "Serve with a mixed green salad and your favorite fresh fruit to round out the meal.",
+          "TipID": 1,
+          "TipName": "Serving Suggestion"
+        },
+        {
+          "RecipeId": 212905,
+          "Sequence": 11,
+          "TipDescription": "Sprinkle with 2 Tbsp. chopped fresh parsley.",
+          "TipID": 2,
+          "TipName": "Special Extra"
+        }
+      ],
+      "TotalTime": 20,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "4 servings, 1 cup each"
+    },
+    {
+      "AdServingKeywords": "",
+      "AlternateLanguageRecipes": [],
+      "Assets": [],
+      "AverageRating": 0,
+      "BrandId": 1,
+      "Branding": null,
+      "CSSSkins": null,
+      "CarbCounter": null,
+      "Categories": [],
+      "Classifications": [],
+      "ComplimentaryRecipes": null,
+      "CookingMethod": null,
+      "Copyright": null,
+      "Courses": [],
+      "DietExchange": null,
+      "DishDetails": null,
+      "EndDate": "/Date(-62135575200000-0600)/",
+      "HasVideo": false,
+      "Ingredients": [
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71003,
+          "IngredientName": "Yukon gold potatoes, cut into 1-1/2-inch pieces",
+          "IngredientStep": 10,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 643646,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 70459,
+          "IngredientName": "fat-free reduced-sodium chicken broth, divided",
+          "IngredientStep": 20,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 643647,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 71353,
+          "IngredientName": "lean ground beef",
+          "IngredientStep": 30,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "lb.",
+          "RecipeIngredientID": 643648,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68296,
+          "IngredientName": "(about 1/2 of 6-oz. pkg.) STOVE TOP Stuffing Mix for Chicken",
+          "IngredientStep": 40,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 643649,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68794,
+          "IngredientName": "egg, beaten",
+          "IngredientStep": 50,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1,
+          "QuantityText": "1",
+          "QuantityUnit": "",
+          "RecipeIngredientID": 643651,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 68147,
+          "IngredientName": "KRAFT Shredded Monterey Jack Cheese with Jalapeno Peppers, divided",
+          "IngredientStep": 60,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 1.5,
+          "QuantityText": "1-1/2",
+          "QuantityUnit": "cups",
+          "RecipeIngredientID": 643650,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 73711,
+          "IngredientName": "plus 2 Tbsp. HEINZ Ketchup Blended with Real Jalapeño, divided",
+          "IngredientStep": 70,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.25,
+          "QuantityText": "1/4",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 643652,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        },
+        {
+          "FullMeasure": null,
+          "FullWeight": null,
+          "IngredientGridHeaders": null,
+          "IngredientID": 67834,
+          "IngredientName": "BREAKSTONE'S or KNUDSEN Sour Cream",
+          "IngredientStep": 80,
+          "LanguageId": 0,
+          "PostPreparation": "",
+          "PrePreparation": "",
+          "QuantityNum": 0.5,
+          "QuantityText": "1/2",
+          "QuantityUnit": "cup",
+          "RecipeIngredientID": 643654,
+          "TrialMeasure": null,
+          "TrialWeight": null
+        }
+      ],
+      "IsHealthyLiving": false,
+      "KRLId": "584203",
+      "KeyIngredients": [],
+      "Keywords": "",
+      "LanguageId": 1,
+      "LifeStyles": [],
+      "NumberOfIngredients": 8,
+      "NumberOfRatings": 0,
+      "NumberOfRatingsWithComments": "0",
+      "NumberOfServings": "6 servings",
+      "NumberOfTrialServings": null,
+      "NutritionBonus": null,
+      "NutritionExchangeItemId": 0,
+      "NutritionGridItems": null,
+      "NutritionItems": [
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 371,
+          "NutritionItemName": "Calories",
+          "Predriscriptor": "",
+          "Quantity": 520,
+          "Unit": "          "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 372,
+          "NutritionItemName": "Protein",
+          "Predriscriptor": "",
+          "Quantity": 36,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 373,
+          "NutritionItemName": "Carbohydrate",
+          "Predriscriptor": "",
+          "Quantity": 37,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 374,
+          "NutritionItemName": "Dietary fiber",
+          "Predriscriptor": "",
+          "Quantity": 4,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 375,
+          "NutritionItemName": "Sugars",
+          "Predriscriptor": "",
+          "Quantity": 7,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 376,
+          "NutritionItemName": "Total fat",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 377,
+          "NutritionItemName": "Saturated fat",
+          "Predriscriptor": "",
+          "Quantity": 12,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 378,
+          "NutritionItemName": "Monounsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 1.5,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 379,
+          "NutritionItemName": "Polyunsaturated Fat",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 380,
+          "NutritionItemName": "Trans Fat",
+          "Predriscriptor": "",
+          "Quantity": 1,
+          "Unit": "g         "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 381,
+          "NutritionItemName": "Cholesterol",
+          "Predriscriptor": "",
+          "Quantity": 150,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 382,
+          "NutritionItemName": "Vitamin A",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 383,
+          "NutritionItemName": "Vitamin C",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 384,
+          "NutritionItemName": "Vitamin D",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 385,
+          "NutritionItemName": "Vitamin E",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 386,
+          "NutritionItemName": "Calcium",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 387,
+          "NutritionItemName": "Iron",
+          "Predriscriptor": "",
+          "Quantity": 25,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 388,
+          "NutritionItemName": "Potassium",
+          "Predriscriptor": "",
+          "Quantity": 20,
+          "Unit": "%DV       "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 389,
+          "NutritionItemName": "Sodium",
+          "Predriscriptor": "",
+          "Quantity": 750,
+          "Unit": "mg        "
+        },
+        {
+          "DisplayOrder": 0,
+          "Document": null,
+          "NutritionItemID": 390,
+          "NutritionItemName": "Added Sugars",
+          "Predriscriptor": "",
+          "Quantity": 0,
+          "Unit": "g         "
+        }
+      ],
+      "NutritionServingText": null,
+      "PrepStepImage": null,
+      "PreparationDescription": "Place potatoes in electric pressure cooker; top with trivet.  Pour 1 cup chicken broth over potatoes. Place 2 sheets of heavy-duty foil in crisscross pattern over trivet, then fold up edges of foil sheets to resemble a bowl. $Mix meat, stuffing mix, egg, 1/2 cup cheese, 1/4 cup ketchup and remaining chicken broth just until blended. Shape into loaf; place in foil bowl.  Close and lock lid. Turn Pressure Release Valve to Sealing position. Cook 25 min. using HIGH PRESSURE COOK setting. When timer goes off, use Quick Pressure Release to release pressure. Turn pressure cooker off. Slowly remove lid.$Heat broiler. Carefully use ends of foil to transfer meatloaf from pressure cooker to rimmed baking sheet.  Brush meatloaf with remaining ketchup. Broil 2 to 3 min. or until top of meatloaf begins to brown.  Remove from broiler.$Remove trivet from pressure cooker; set aside. Add sour cream and remaining cheese to potatoes in cooker; mash to desired consistency. Serve with the meatloaf.",
+      "PreparationPreText": null,
+      "PreparationSteps": [
+        {
+          "Description": "Place potatoes in electric pressure cooker; top with trivet.  Pour 1 cup chicken broth over potatoes. Place 2 sheets of heavy-duty foil in crisscross pattern over trivet, then fold up edges of foil sheets to resemble a bowl. ",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 1
+        },
+        {
+          "Description": "Mix meat, stuffing mix, egg, 1/2 cup cheese, 1/4 cup ketchup and remaining chicken broth just until blended. Shape into loaf; place in foil bowl.  Close and lock lid. Turn Pressure Release Valve to Sealing position. Cook 25 min. using HIGH PRESSURE COOK setting. When timer goes off, use Quick Pressure Release to release pressure. Turn pressure cooker off. Slowly remove lid.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 2
+        },
+        {
+          "Description": "Heat broiler. Carefully use ends of foil to transfer meatloaf from pressure cooker to rimmed baking sheet.  Brush meatloaf with remaining ketchup. Broil 2 to 3 min. or until top of meatloaf begins to brown.  Remove from broiler.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 3
+        },
+        {
+          "Description": "Remove trivet from pressure cooker; set aside. Add sour cream and remaining cheese to potatoes in cooker; mash to desired consistency. Serve with the meatloaf.",
+          "PreparationStepImage": {
+            "PictureFormats": [],
+            "author": null,
+            "id": null,
+            "imageType": null,
+            "mimeType": null,
+            "publicationDate": null,
+            "status": null,
+            "title": null,
+            "type": null
+          },
+          "Sequence": 4
+        }
+      ],
+      "PreparationTime": 20,
+      "Promotion": null,
+      "Ratings": {
+        "TotalCount": 0,
+        "PageCount": 10,
+        "PageNo": 1,
+        "Rating": []
+      },
+      "RecipeDisplayFormatId": 0,
+      "RecipeId": 212912,
+      "RecipeName": "Electric Pressure Cooker Mexican Meatloaf & Potatoes",
+      "RecipeType": 0,
+      "RelatedData": {
+        "RelatedBrands": null,
+        "RelatedProducts": null,
+        "RelatedRecipes": {
+          "DefaultTopCount": 5,
+          "Recipe": [],
+          "TotalCount": 0
+        }
+      },
+      "RiseIngredients": [
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 67834,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000301676",
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68147,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00021000638987",
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68296,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "00043000807101",
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 68794,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 70459,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": null,
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71003,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 71353,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "Inedible",
+          "ProductId": null,
+          "RecipeId": 212912
+        },
+        {
+          "IngredientCategory": "KRL",
+          "IngredientId": 73711,
+          "IngredientIndustrySector": "Retail",
+          "IngredientType": "KHC",
+          "ProductId": "10057000037229",
+          "RecipeId": 212912
+        }
+      ],
+      "RiseTaxonomy": [
+        {
+          "ParentTaxonomyId": 52,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 3,
+          "TaxonomyName": "Meatloaf",
+          "TaxonomyTypeId": 3,
+          "TaxonomyTypeName": "Dish Type"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 57,
+          "TaxonomyName": "Dinner",
+          "TaxonomyTypeId": 1,
+          "TaxonomyTypeName": "Day Part"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 58,
+          "TaxonomyName": "Lunch",
+          "TaxonomyTypeId": 1,
+          "TaxonomyTypeName": "Day Part"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 65,
+          "TaxonomyName": "Entrées",
+          "TaxonomyTypeId": 2,
+          "TaxonomyTypeName": "Meal Part"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 286,
+          "TaxonomyName": "Hispanic",
+          "TaxonomyTypeId": 4,
+          "TaxonomyTypeName": "Cuisine"
+        },
+        {
+          "ParentTaxonomyId": 286,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 290,
+          "TaxonomyName": "Mexican",
+          "TaxonomyTypeId": 4,
+          "TaxonomyTypeName": "Cuisine"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 336,
+          "TaxonomyName": "Fall",
+          "TaxonomyTypeId": 6,
+          "TaxonomyTypeName": "Season"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 337,
+          "TaxonomyName": "Spring",
+          "TaxonomyTypeId": 6,
+          "TaxonomyTypeName": "Season"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 338,
+          "TaxonomyName": "Summer",
+          "TaxonomyTypeId": 6,
+          "TaxonomyTypeName": "Season"
+        },
+        {
+          "ParentTaxonomyId": 0,
+          "RecipeId": 212912,
+          "ResourceName": "Recipe",
+          "TaxonomyId": 339,
+          "TaxonomyName": "Winter",
+          "TaxonomyTypeId": 6,
+          "TaxonomyTypeName": "Season"
+        }
+      ],
+      "Riserecipe": [
+        {
+          "GRIN": 584203,
+          "RecipeId": 212912,
+          "RecipeIndustrySector": "Retail",
+          "RecipeType": "Internal"
+        }
+      ],
+      "RomanceText": null,
+      "SEOName": "electric-pressure-cooker-mexican-meatloaf-potatoes-212912",
+      "Tips": [
+        {
+          "RecipeId": 212912,
+          "Sequence": 1,
+          "TipDescription": "Garnish with chopped fresh cilantro before serving.",
+          "TipID": 1,
+          "TipName": "Special Extra"
+        },
+        {
+          "RecipeId": 212912,
+          "Sequence": 2,
+          "TipDescription": "Manage portions by using a smaller plate for your meals and snacks.  This will help you stick to the recommended serving sizes of your favorite recipes.",
+          "TipID": 2,
+          "TipName": "Mindful Eating"
+        },
+        {
+          "RecipeId": 212912,
+          "Sequence": 3,
+          "TipDescription": "The meatloaf will release juices as it bakes. If there are too many juices in the foil when the meatloaf is done, use a turkey baster to suction out the juices before transferring the cooked meatloaf to the baking sheet and broiling as directed.",
+          "TipID": 3,
+          "TipName": "Important Note"
+        },
+        {
+          "RecipeId": 212912,
+          "Sequence": 4,
+          "TipDescription": "Store the unused stuffing mix in airtight container at room temperature.  Use to prepare the stuffing as directed on package except use only half each of the measures of the water, and margarine or butter.  Serve with your favorite hot cooked lean meat.",
+          "TipID": 4,
+          "TipName": "How to Use the Leftover Dry Stuffing Mix"
+        }
+      ],
+      "TotalTime": 45,
+      "TradeMarkInfo": null,
+      "Video": [],
+      "Yield": "6 servings"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2002-2014 Skava. All rights reserved.The Skava system, including 
+    without limitation, all software and other elements thereof, are owned or 
+    controlled exclusively by Skava and protected by copyright, patent, and other 
+    laws. Use without permission is prohibited. For further information contact 
+    Skava at info@skava.com. -->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+            http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+            http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd
+            http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd
+            http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+            http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.2.xsd">
+
+	<bean id="userpreferences" class="com.skava.transform.KraftRecipesSmartzoneHandler"
+		depends-on="configManager">
+		<constructor-arg ref="skavaTenantContextFactory"/>
+	</bean>
+	<bean id="userdata" class="com.skava.transform.KraftRecipesSimilarsearchHandler"
+		depends-on="configManager">
+		<constructor-arg ref="skavaTenantContextFactory"/>
+	</bean>
+	<bean id="typemapping" class="com.skava.transform.KraftrecipesResponseFormatter"
+		depends-on="configManager">
+		<constructor-arg ref="skavaTenantContextFactory" />
+	</bean>
+	<bean id="searchmapping" class="com.skava.transform.KraftRecipesSearchHandler"
+		depends-on="configManager">
+		<constructor-arg ref="skavaTenantContextFactory" />
+	</bean>
+</beans>

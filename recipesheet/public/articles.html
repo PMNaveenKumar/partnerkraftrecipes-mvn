@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kraft Importer</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+	/*
+	
+	$('.product-categorywrapper').each(function(i,p){
+		console.log($('h3',p).text())
+		console.log($('.product-col',p).map(function(i,e){return $('img',e).attr('src').split('/').pop().split('_')[0]}).toArray().join())
+	})
+
+	*/
+
+/*
+console.log($('.heading-01').text().toLowerCase().replace(/\W+/g, ""))
+console.log('http:'+$('.detailpage-main-imageblock img').attr('src'))
+console.log('-------')
+console.log($('.heading-01').text())
+console.log('-------')
+console.log($('.detailpage-copycontent').html())
+console.log($('.related-product-wrapper .product-col').map(function(i,e){return $('a',e).attr('href').split('/').pop()}).toArray().join())
+
+*/
+
+var article_title = $('.heading-01').html()
+var article_image = $('.detailpage-main-imageblock img').attr('src')
+var article_content = $('.detailpage-copycontent').html()
+
+var products = $('.product-col').map(function(i,e){
+	return $('a',e).attr('href').split('/').pop()
+}).toArray()
+
+var p = {
+	id:$.trim($('.heading-01').html()).toLowerCase().replace(/[^0-9a-z]/g,''),
+	title:$.trim($('.heading-01').html()),
+	image:$.trim($('.detailpage-main-imageblock img').attr('src')),
+	content:$.trim($('.detailpage-copycontent').html()),
+	products:$('.product-col').map(function(i,e){
+		return $('a',e).attr('href').split('/').pop()
+	}).toArray()
+}
+
+</script>
+	
+</body>
+</html>

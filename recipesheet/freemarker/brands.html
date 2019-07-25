@@ -1,0 +1,23 @@
+<section>
+    <div>
+        <h2>Kraft Brands</h2>
+        <ul>
+            <#list Brands as brand>
+                <li>
+                    <a target="iframe_1" href="/ui/kraft/brands/${brand.BrandID}" title="${brand.BrandID}">${brand.Name} (${brand.BrandID})</a>
+                    <#if brand.Products??>
+                        <#if brand.Products?size!=0>
+                            <ul>
+                                <#list brand.Products as product>
+                                    <#if product.Name??>
+                                        <li><a href="/kraft/brands/${brand.BrandID}/product/${product.GTIN}">${product.Name}</a></li>
+                                    </#if>
+                                </#list>
+                            </ul>
+                        </#if>
+                    </#if>
+                </li>
+            </#list>
+        </ul>
+    </div>
+</section>

@@ -1,0 +1,71 @@
+<#if logs??>
+<section>
+    <div>
+        <h2>Import Result:</h2>
+        <#list logs as log>
+        <h3>${log}</h3>
+        </#list>
+        <h2>${filepath}</h2>
+    </div>
+</section>
+</#if>
+<section>
+    <div>
+        <h2>Hello There</h2>
+        <p>Enter IDs to import then hit "Import". You may have to wait a bit. Watch the terminal logs for progress.</p>
+    </div>
+</section>
+<section>
+    <div>
+        <form action="/import/submit" method="POST">
+            <table>
+                <tr>
+                    <td>
+                        <label for="field-usecache">Use Cache?</label>
+                    </td>
+                    <td>
+                        <input id="field-usecache" type="checkbox" name="cache" value="1" checked />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="field-brandids">Brand IDs</label>
+                    </td>
+                    <td>
+                        <textarea id="field-brandids" name="brands" rows="5" placeholder="Enter comma delimited list of IDs"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="field-productids">Products IDs</label>
+                    </td>
+                    <td>
+                        <textarea id="field-productids" name="products" rows="5" placeholder="Enter comma delimited list of IDs"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="field-recipeids">Recipe IDs</label>
+                    </td>
+                    <td>
+                        <textarea id="field-recipeids" name="recipes" rows="5" placeholder="Enter comma delimited list of IDs"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="field-filename">File Name:</label>
+                    </td>
+                    <td>
+                        <input required pattern=".{1,30}" type="text" id="field-filename" name="filename" value="kraft-api-import" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button>IMPORT</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</section>

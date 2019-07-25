@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2002-2014 Skava. All rights reserved.The Skava system, including 
+    without limitation, all software and other elements thereof, are owned or 
+    controlled exclusively by Skava and protected by copyright, patent, and other 
+    laws. Use without permission is prohibited. For further information contact 
+    Skava at info@skava.com. -->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+    xmlns:mvc="http://www.springframework.org/schema/mvc"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-4.2.xsd
+        http://www.springframework.org/schema/mvc 
+        http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd">
+
+    <!-- Kraft -->
+    
+    <context:component-scan base-package="com.skava.web.pim">
+        <context:include-filter type="assignable" expression="com.skava.web.pim.PimKraftController" />
+    </context:component-scan>
+    
+        <bean id="skavaKraftContextFactory" class="com.skava.builder.impl.PimServiceKraftTenantContextFactoryImpl" depends-on="skavaTenantContextFactory">
+        <constructor-arg ref="skavaTenantContextFactory" />
+        <constructor-arg ref="pimServiceKraftBuilderImpl" />
+        <constructor-arg ref="streamSearchV2KraftRemoteServiceBuilderImpl" />
+    </bean>
+
+    <bean id="pimServiceKraftBuilderImpl" class="com.skava.builder.impl.PimServiceKraftBuilderImpl" >
+        <constructor-arg value="cryptoutilkey_prefix" />
+        <constructor-arg value="header.allowPreview" />
+    </bean>
+
+    <bean id="streamSearchV2KraftRemoteServiceBuilderImpl" class="com.skava.builder.remote.impl.StreamSearchV2KraftRemoteServiceBuilderImpl" >
+        <constructor-arg value="remoteurl.searchv2service"/>
+        <constructor-arg value="remoteurl.apiTokenSecureEnabled"/>
+        <constructor-arg value="pim"/>
+    </bean>
+</beans>

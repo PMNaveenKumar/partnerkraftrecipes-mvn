@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2002-2014 Skava. All rights reserved.The Skava system, including 
+    without limitation, all software and other elements thereof, are owned or 
+    controlled exclusively by Skava and protected by copyright, patent, and other 
+    laws. Use without permission is prohibited. For further information contact 
+    Skava at info@skava.com. -->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+    xmlns:mvc="http://www.springframework.org/schema/mvc"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.2.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">
+ 
+ 
+    <context:component-scan base-package="com.skava.web.search">
+        <context:include-filter type="assignable" expression="com.skava.web.search.StreamSearchV2KraftController" />
+    </context:component-scan>
+
+    <bean id="skavaKraftContextFactory" class="com.skava.builder.impl.StreamSearchKraftTenantContextFactoryImpl" depends-on="skavaTenantContextFactory">
+        <constructor-arg ref="skavaTenantContextFactory" />
+        <constructor-arg ref="streamSearchV2KraftServiceBuilderImpl" />
+        <constructor-arg ref="streamSearchKraftServiceBuilderImpl" />
+        <constructor-arg ref="searchServiceKraftBuilderImpl"/>
+    </bean>
+
+    <bean id="streamSearchV2KraftServiceBuilderImpl" class="com.skava.builder.impl.StreamSearchV2KraftServiceBuilderImpl" >
+        <constructor-arg name="searchQueueName" value="search.queuename" />
+        <constructor-arg name="solrCloudMode" value="search.solrCloudMode" />
+        <constructor-arg name="lukeFromDb" value="search.lukeFromDB" />
+    </bean>
+	
+	<bean id="streamSearchKraftServiceBuilderImpl" class="com.skava.builder.impl.StreamSearchKraftServiceBuilderImpl">
+        <constructor-arg value="search.searchV3ConfigPath" />
+    </bean>
+
+    <bean id="searchServiceKraftBuilderImpl" class="com.skava.builder.impl.SearchServiceKraftBuilderImpl" />
+</beans>
