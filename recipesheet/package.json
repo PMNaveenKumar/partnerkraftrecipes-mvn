@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "exceljs": "^0.2.46",
+    "exceljs": "^4.3.0",
     "xlsx": "^0.8.1"
   },
   "dependencies": {
